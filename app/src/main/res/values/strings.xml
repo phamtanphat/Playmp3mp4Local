@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Playmp3mp4Local</string>
+    <string name="play_mp3">Play mp3</string>
+    <string name="play_mp4">Play mp4</string>
+</resources>
